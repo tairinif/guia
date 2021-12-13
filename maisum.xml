@@ -1,0 +1,22 @@
+﻿ 
+	<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="Viper" generator-info-url="http://vipeiptv.com:25461/">
+  <channels>
+    <channel id="A&amp;E"><display-name lang="pt">A&amp;E</display-name><icon src="../canais/1592305679.gif|../canais/1592302022.gif" /><url>http://www.lineup.net.br</url></channel>
+  <channel id="A&amp;E FHD"><display-name lang="pt">A&amp;E FHD</display-name><url>http://www.clarotv.com.br</url></channel>
+  <channel id="A&amp;E H265"><display-name lang="pt">A&amp;E H265</display-name><url>http://www.meuguia.tv</url></channel>
+  <channel id="A&amp;E HD"><display-name lang="pt">A&amp;E HD</display-name><url>http://www.netcombo.com.br</url></channel>
+  <channel id="AMC"><display-name lang="pt">AMC</display-name><url>http://www.clarotv.com.br</url></channel>
+  <channel id="AMC FHD"><display-name lang="pt">AMC FHD</display-name><icon src="../canais/1617576108.gif|../canais/ctv.gif" /><url>http://www.lineup.net.br</url></channel>
+  <channel id="AMC H265"><display-name lang="pt">AMC H265</display-name><url>http://www.meuguia.tv</url></channel>
+  <channel id="AMC HD"><display-name lang="pt">AMC HD</display-name><url>http://www.netcombo.com.br</url></channel>
+  <channel id="ANIMAL PLANET H265"><display-name lang="pt">ANIMAL PLANET H265</display-name><url>http://www.clarotv.com.br</url></channel>
+  <channel id="AXN"><display-name lang="pt">AXN</display-name><url>http://www.clarotv.com.br</url></channel>
+  <channel id="AXN FHD"><display-name lang="pt">AXN FHD</display-name><icon src="../canais/maistv-sumicity.gif" /><url>http://www.lineup.net.br</url></channel>
+  <channel id="AXN H265"><display-name lang="pt">AXN H265</display-name><url>http://www.meuguia.tv</url></channel>
+  <channel id="Agro CANAL HD"><display-name lang="pt">Agro Mais HD</display-name><url>http://www.clarotv.com.br</url></channel>
+  <channel id="Animal Planet"><display-name lang="pt">Animal Planet</display-name><icon src="../canais/1619461841.gif|../canais/1601463429.gif" /><url>http://www.lineup.net.br</url></channel>
+  <channel id="Animal Planet FHD"><display-name lang="pt">Animal Planet FHD</display-name><url>http://www.meuguia.tv</url></channel>
+  <channel id="Animal Planet HD"><display-name lang="pt">Animal Planet HD</display-name><url>http://www.netcombo.com.br</url></channel>
+
+
+</settings>
